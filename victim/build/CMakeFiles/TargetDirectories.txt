@@ -1,0 +1,3 @@
+C:/Users/salah/Desktop/RandomCStuff/victim/build/CMakeFiles/victim.dir
+C:/Users/salah/Desktop/RandomCStuff/victim/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/salah/Desktop/RandomCStuff/victim/build/CMakeFiles/ZERO_CHECK.dir
